@@ -1,0 +1,13 @@
+
+ Informations Personnelles 
+----------------------------------------------------------------------------------------------------
+ Nom: KUASSI 
+Sexe: Masculin 
+Taille: 1.80 
+Poids: 68 
+
+ Informations Professionnelles 
+----------------------------------------------------------------------------------------------------
+ Profession: Developpeur/Formateur 
+Secteur Profession: Informatique 
+Experience: 4 
